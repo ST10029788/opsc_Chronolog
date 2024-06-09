@@ -1,4 +1,5 @@
-# opsc_Chronolog
+# OPSC POE: Chronolog
+
 # Added Features
 ## Pomodoro Timer 
 This timer is situated on the home page, it will require minimal input, minimizing the need for

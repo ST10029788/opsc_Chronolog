@@ -1,7 +1,34 @@
 # OPSC POE: Chronolog
 
-# Added Features
-## Pomodoro Timer 
+
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+
+## Introduction
+
+Explain what the project is about and its purpose.
+
+## Features
+
+List the main features of the project.
+
+## Installation
+
+Provide instructions on how to install the project, including any dependencies.
+
+## Usage
+
+Explain how to use the project, including any setup or configuration necessary.
+
+## Added Features
+### Pomodoro Timer 
 This timer is situated on the home page, it will require minimal input, minimizing the need for
 extensive data input when they are not in a highly productive mood, or feel it is a small
 task but want to avoid burnout. 

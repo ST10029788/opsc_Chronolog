@@ -45,6 +45,15 @@ section will provide a manual for users instead, so that it is easy to access. T
 will also provide information that users commonly want answers to. This streamlines
 the process of using the app, so there is no learning curve or complexity.
 
+## Graph
+Shows the times and goals for the user.
+
+## Goals
+A visual representation of how well the user stays between goals.
+
+## Firebase database
+All data is stored in a realtime Firebase database. 
+
 ## Installation
 
 Provide instructions on how to install the project, including any dependencies.
